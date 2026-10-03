@@ -1,0 +1,6 @@
+interface:
+  display_name: "Telegram Post Watch"
+  short_description: "Report new channel posts when Codex starts"
+  default_prompt: "Use $telegram-post-watch to inspect the latest posts in the configured Telegram channel."
+policy:
+  allow_implicit_invocation: true

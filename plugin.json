@@ -1,0 +1,12 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "telegram-post-watch",
+  "version": "1.0.0",
+  "description": "Check one Telegram channel when a Codex session starts and surface new posts.",
+  "skills": "./skills/",
+  "extensions": {
+    "com.openai": {
+      "hooks": "./hooks/hooks.json"
+    }
+  }
+}
