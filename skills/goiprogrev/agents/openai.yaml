@@ -1,6 +1,0 @@
-interface:
-  display_name: "GoiProgrev"
-  short_description: "Демо под бизнес и тезисы для продажи проекта"
-  default_prompt: "Используй $goiprogrev: исследуй бизнес по моим ссылкам, адаптируй копию проекта, открой бесплатное публичное демо и подготовь тезисы продажи с деловыми контактами."
-policy:
-  allow_implicit_invocation: false
